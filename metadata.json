@@ -1,0 +1,7 @@
+{
+  "name": "NEO-SHELL // Futuristic Cyber Portfolio",
+  "description": "Futuristic hacker-themed personal portfolio, terminal console, and cybersecurity developer showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
